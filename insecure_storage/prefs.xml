@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="user_entity_email">invslab2350@gmail.com</string>
+    <string name="device_id">32223976</string>
+    <string name="default_endpoint">CZ</string>
+    <string name="firebase_token">cKNoQ1hAIsQ:APA91bE9S2jAm8Y9Z5GzHx87kgLh6xazA0NODuOqfRmOllLOhYfB3yY3u_RpeU6yFBOztgFT-P00uOZXI8fKa9WCsWfs5yrG-H4kgdDHnNyNSqEL0maRp_g4ZUTRg1M5JYZvn0eXWjla</string>
+    <string name="user_entity_password">invpass</string>
+    <string name="user_entity_phone">+420123321666</string>
+    <string name="user_entity_username">Jan Novák </string>
+    <string name="actual_endpoint">CZ</string>
+</map>

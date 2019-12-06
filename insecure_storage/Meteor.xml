@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="mapos-lon" value="16567382" />
+    <int name="mapos-lat" value="49214008" />
+    <int name="mapos-zoom" value="7" />
+    <int name="alpha-progress" value="10" />
+</map>

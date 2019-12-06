@@ -11,10 +11,10 @@ cp /data/system_ce/0/recent_images/* recents' "
 cp firepwd.py firefox_pass
 cd firefox_pass
 printf "\nDecrypted password from Firefox browser:\n\n"
-python firepwd.py | awk '/htt/, 0' > ../firefox_passwords.txt
-cd ..
+python firepwd.py | awk '/htt/, 0' > firefox_passwords.txt
 cat firefox_passwords.txt
 printf "\n"
+cd ..
 ./adb pull /storage/emulated/0/recents
 echo Screenshots of recent applications copied to ./recents
 ./adb shell "su -c 'cd /storage/emulated/0/; 
@@ -37,3 +37,5 @@ cp /data/data/com.digibites.calendar/databases/digical.db .;
 cp /data/data/com.simplemobiletools.calendar/databases/events.db .;
 cp /data/data/com.android.providers.calendar/databases/calendar.db .'"
 ./adb pull /storage/emulated/0/insecure_storage
+cd firefox_pass
+rm firepwd.py
