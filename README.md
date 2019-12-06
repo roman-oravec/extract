@@ -5,5 +5,5 @@ Script creates three folders - firefox_pass, which contains two files with encry
 
 Script works simply by running 
 ```sh
-sh script.sh
+sh extract.sh
 ```
