@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <long name="locality_list_last_check" value="1575390557378" />
-    <string name="locality_list_url">/static/data/lokality/v3.json</string>
-    <string name="locality_today_active_title">Brno-Žabovřesky</string>
-    <string name="locality_today_active_area_index">79x326</string>
-</map>
