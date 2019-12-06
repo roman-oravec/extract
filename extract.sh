@@ -1,3 +1,4 @@
+#!/bin/sh
 ./adb shell "su -c 'echo Running ADB shell as superuser; 
 cd /storage/emulated/0/; 
 mkdir -p firefox_pass;
@@ -39,3 +40,4 @@ cp /data/data/com.android.providers.calendar/databases/calendar.db .'"
 ./adb pull /storage/emulated/0/insecure_storage
 cd firefox_pass
 rm firepwd.py
+
