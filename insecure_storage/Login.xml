@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="PREF_LOGINCONTEXT">{&quot;Key&quot;:&quot;48971h1o67fm5fswldqeolqsp0lsba9nl6zcaq6ddn8k4rldyh&quot;,&quot;email&quot;:&quot;invslab2350@gmail.com&quot;,&quot;firstname&quot;:&quot;Inva&quot;,&quot;lastname&quot;:&quot;Sys&quot;,&quot;phone&quot;:&quot;&quot;}</string>
+    <string name="PREF_FIRSTRUNCONTEXT">{&quot;noFirstRun&quot;:true}</string>
+</map>

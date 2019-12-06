@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <float name="lastCenterLon" value="16.565367" />
+    <int name="lastZoom" value="14" />
+    <boolean name="firstRun" value="false" />
+    <long name="lastAppTime" value="1575390497290" />
+    <int name="launchCount" value="1" />
+    <string name="oldAppVersion"></string>
+    <string name="mapStyle">a_default</string>
+    <boolean name="positionLocked" value="true" />
+    <float name="lastCenterLat" value="49.21265" />
+    <long name="czechTTSLastChecked" value="1575390474676" />
+    <string name="currentAppVersion">6140400</string>
+    <float name="lastPosLat" value="49.21265" />
+    <boolean name="shownGreeting" value="true" />
+    <float name="lastPosLon" value="16.565367" />
+    <boolean name="statePositionLocked" value="true" />
+    <int name="partnerId" value="18904" />
+</map>
